@@ -1,0 +1,8 @@
+
+Résumé des performances:
+Random Forest:
+  Exactitude: 0.9687
+  Précision: 0.9693
+  Rappel: 0.9687
+  F1-Score: 0.9684
+  Meilleurs paramètres: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 100}
